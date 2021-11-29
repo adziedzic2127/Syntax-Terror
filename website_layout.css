@@ -4,4 +4,15 @@ body {
     width: 900px;
  }
  
+ div {
+    float: left;
+    width: 300px;
+    height: 580px;
+ }
+ 
+ aside {
+    float: left;
+    width:540px;
+    height: 600px;
+ }
  
