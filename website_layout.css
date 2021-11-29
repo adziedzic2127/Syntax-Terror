@@ -16,3 +16,8 @@ body {
     height: 600px;
  }
  
+ img {
+    display: block;
+    width: 100%;
+    margin: 0px;
+ }
