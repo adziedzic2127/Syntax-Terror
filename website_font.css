@@ -1,13 +1,13 @@
 @charset "utf-8";
 
 div {
-   background-color: rgb(255, 171, 171);
+   background-color: rgb(171, 173, 255);
    padding: 10px;
    font-size: 1.2em;
 }
 
 aside {
-   background-color: rgb(209,227,107);
+   background-color: rgb(107, 169, 227);
    padding: 0 20px;
 }
 
