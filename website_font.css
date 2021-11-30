@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+div {
+   background-color: rgb(255, 171, 171);
+   padding: 10px;
+   font-size: 1.2em;
+}
+
+aside {
+   background-color: rgb(209,227,107);
+   padding: 0 20px;
+}
+
+aside h1 {
+   font-size: 1.9em;
+   font-family: Segoe, Verdana, sans-serif;
+   line-height: 0.8em;
+   margin: 20px 0 0 0;
+}
+
+
+aside p {
+   font-size: 1.1em;
+   text-indent: 1em;
+}
+
+aside p:first {
+   text-indent: 0em;
+}
