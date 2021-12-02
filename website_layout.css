@@ -9,12 +9,33 @@ body {
     float: left;
     width: 500px;
     height: 600px;
+    background-color: rgb(68, 71, 250);
+    padding: 10px;
+    font-size: 1.2em;
  }
 
  aside {
     float: right;
     width:500px;
     height: 600px;
+    background-color: rgb(68, 71, 250);
+    padding: 0 20px;
+ }
+
+ aside h1 {
+    font-size: 1.9em;
+    font-family: Segoe, Verdana, sans-serif;
+    line-height: 0.8em;
+    margin: 20px 0 0 0;
+ }
+
+ aside p {
+    font-size: 1.1em;
+    text-indent: 1em;
+ }
+
+ aside p:first {
+    text-indent: 0em;
  }
 
  .img {
