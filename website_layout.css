@@ -5,7 +5,7 @@ body {
     background-color: black;
  }
 
- div {
+div {
     float: left;
     width: 690px;
     height: 600px;
@@ -14,7 +14,7 @@ body {
     font-size: 1.5em;
  }
 
- aside {
+aside {
     float: right;
     width:780px;
     height: 600px;
@@ -22,35 +22,35 @@ body {
     padding: 0 10px;
  }
 
- aside h1 {
+aside h1 {
     font-size: 1.9em;
     font-family: Segoe, Verdana, sans-serif;
     line-height: 0.8em;
     margin: 20px 0 0 0;
  }
 
- aside p {
+aside p {
     font-size: 1.5em;
     text-indent: 1em;
  }
 
- aside p:first {
+aside p:first {
     text-indent: 0em;
  }
 
- .img {
+.img {
     display: block;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
  }
 
- html, body {
+html, body {
     min-height: 100%;
     min-width: 100%;
  }
 
- nav {
+nav {
   float: center;
   color: white;
   text-align: center;
