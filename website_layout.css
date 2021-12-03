@@ -11,7 +11,7 @@ body {
     height: 600px;
     background-color: rgb(68, 71, 250);
     padding: 10px;
-    font-size: 1.2em;
+    font-size: 1.5em;
  }
 
  aside {
@@ -30,7 +30,7 @@ body {
  }
 
  aside p {
-    font-size: 1.1em;
+    font-size: 1.5em;
     text-indent: 1em;
  }
 
