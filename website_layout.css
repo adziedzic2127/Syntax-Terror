@@ -51,8 +51,7 @@ body {
  }
 
  nav {
-  position: absolute;
-  padding-left: 650px;
+  float: center;
   color: white;
   text-align: center;
  }
